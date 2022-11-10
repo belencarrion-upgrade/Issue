@@ -1,0 +1,165 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin:0;
+}
+
+header {
+    font: size 0;
+    /*border-botton: 1px solid black; */
+    box-shadow: 0px 0px 10px grey;
+}
+
+header {
+    display: block;
+    width: 100%;
+    /* border 1px solid red: */
+    font-size: 1rem;
+    padding: 22px
+
+
+}
+
+#image {
+  display: inline-block;
+  width: 100%;
+}
+
+#image-container {
+     display: inline-block;
+    width: 50%;
+}
+
+#signin{
+    left: 10px;
+    color:blue;
+}
+#user {
+  text-align: end;
+}
+
+#allreadyanuser {
+ display: inline-block;
+    width: 49%;
+    text-align: end;
+}
+
+img {
+    padding-left: 2cm;
+  width: 250px;
+}
+
+h1 {
+    padding-left: 6cm;
+    padding-top: 2cm;
+    font-size: 30px;
+}
+
+#main {
+    padding-left: 6cm;
+    padding-top: 1px;
+    
+}
+#google{
+    background-color: blue;
+    color:white; 
+    
+
+}
+#google img{
+    height: 20px;
+    padding-left: 2%;
+    padding-right: 60%;
+
+  }
+
+#facebook {
+    background-color: #05058a;
+    color: white;
+    
+    
+}
+
+#facebook img {
+    height: 20px;
+    padding-left: 2%;
+    padding-right: 50%;   
+    
+}
+#face{
+  padding: 0%;
+}
+
+#p {
+    padding-left: 6cm;
+    padding-top: 1px;
+    font-size: 20px;
+}
+
+form {
+    padding-left: 6cm;
+    padding-top: 1px;
+    font-size: 15px; 
+    
+}
+input {
+    padding-right: 8cm;
+}
+
+#email {
+    
+    font-weight: bold; 
+}
+
+#password {
+    font-weight: bold;
+}
+#account {
+    border: 5px dashed rgb(184, 181, 181);
+    border-radius: 12px;
+    margin-top: 2cm; 
+    margin-left: 6cm;
+    font-size: 15px;
+    color: rgb(184, 181, 181); 
+    
+}
+
+#span2{
+    color: rgb(36, 104, 182);
+}
+#span4{
+    color: rgb(36, 104, 182);
+}
+
+#foot {
+    font: size 0;
+    /*border: 1px solid black; */
+    box-shadow: 0px 0px 10px rgb(165, 164, 164);
+    display: block;
+    width: 100%;
+    /* border 1px solid red: */
+    font-size: 1rem;
+    padding: 22px
+}
+
+#Inc {
+    padding-left: 4cm;
+    margin-top: 2%;
+    color: grey;
+}
+#Terms{
+    padding-left: 2cm;
+    color: grey;
+}
+
+#Privacy{
+    padding-left: 1%;
+    color:grey;
+}
+
+#DMCA {
+    padding-left: 1%;
+    color:grey;
+}
